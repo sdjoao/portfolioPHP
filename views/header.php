@@ -14,17 +14,17 @@
 <header>
         <a href="#" class="logo">Portfólio</a>
         <div class="nav">
-            <a href="#services">Habilidades</a>
-            <a href="#portfolio">Projetos</a>
-            <a href="#contact">Contato</a>
-            <a href="#about">Sobre</a>
+            <a href="/portfolioPHP/#services">Habilidades</a>
+            <a href="/portfolioPHP/#portfolio">Projetos</a>
+            <a href="/portfolioPHP/#contact">Contato</a>
+            <a href="/portfoliophp/views/about.php">Sobre</a>
         </div>
 
         <div class="nav-responsive">
-            <a href="#services">Habilidades</a>
-            <a href="#portfolio">Projetos</a>
-            <a href="#contact">Contato</a>
-            <a href="#about">Sobre</a>
+            <a href="/portfolioPHP/#services">Habilidades</a>
+            <a href="/portfolioPHP/#portfolio">Projetos</a>
+            <a href="/portfolioPHP/#contact">Contato</a>
+            <a href="/portfoliophp/views/about.php">Sobre</a>
         </div>
 
         <div class="menu-hamburguer">
